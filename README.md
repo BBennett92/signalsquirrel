@@ -56,12 +56,14 @@ It provides a user-friendly graphical interface using the Tkinter library.
 
 
 
-How to Use
+How to Use:
+
 Make sure you have Python installed on your system.
-Open a text editor and create a new Python file.
-Copy and paste the entire code of Signal Squirrel into the file.
-Save the file with a .py extension, for example, signal_squirrel.py.
-Run the script by executing the Python file.
+
+sudo git https://github.com/BBennett92/signalsquirrel.git
+cd signalsquirrel
+sudo chmod +x signalsquirrel.py
+sudo python3 signalsquirrel.py
 
 User Interface
 The Signal Squirrel script opens a window with the following components:
