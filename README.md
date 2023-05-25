@@ -53,9 +53,15 @@ How to Use:
 Make sure you have Python installed on your system.
 
 sudo git https://github.com/BBennett92/signalsquirrel.git
+
 cd signalsquirrel
+
 sudo chmod +x signalsquirrel.py
+
 sudo python3 signalsquirrel.py
+
+
+
 
 User Interface
 The Signal Squirrel script opens a window with the following components:
