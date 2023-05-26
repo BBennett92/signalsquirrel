@@ -52,7 +52,7 @@ How to Use:
 
 Make sure you have Python installed on your system.
 
-sudo git https://github.com/BBennett92/signalsquirrel.git
+sudo git clone https://github.com/BBennett92/signalsquirrel.git
 
 cd signalsquirrel
 
